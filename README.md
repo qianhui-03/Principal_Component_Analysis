@@ -13,6 +13,7 @@ The `Wine Quality Dataset` from Kaggle is used in this project.
 ## Dataset
 - Name: Wine Quality Dataset
 - Source: Kaggle
+- Samples: 1143
 - Features: Physicochemical properties
 - Target: Wine quality score (integer)
 
