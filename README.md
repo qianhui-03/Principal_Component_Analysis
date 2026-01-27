@@ -71,8 +71,8 @@ pip install -r requirements.txt
 ```
 
 ## References
-- **5 PCA Visualizations You Must Try On Your Next Data Science Project** 
+- Kaggle Wine Quality Dataset
+- 5 PCA Visualizations You Must Try On Your Next Data Science Project
 <a href="https://towardsdatascience.com/5-pca-visualizations-you-must-try-on-your-next-data-science-project-148ec3d31e4d/" target="_blank">
 PCA Visualizations You Must Try
 </a>
-- Kaggle Wine Quality Dataset
