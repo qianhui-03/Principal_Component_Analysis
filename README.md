@@ -32,10 +32,10 @@ The `Wine Quality Dataset` from Kaggle is used in this project.
 4. Model Training 
 
 ## Insights
-- The first few principal components capture the majority of variance in the dataset
-- Alcohol and density-related features contribute strongly to early components
-- PCA provides moderate class separation but is not fully discriminative for wine quality
-- Visualization highlights correlated features and dominant variance directions
+- The first few principal components capture the majority of variance in the dataset.
+- Alcohol and density-related features contribute strongly to early components.
+- PCA provides moderate class separation but is not fully discriminative for wine quality.
+- Visualization highlights correlated features and dominant variance directions.
 
 ## Key Takeaways
 - PCA maximizes variance, not class separability.
