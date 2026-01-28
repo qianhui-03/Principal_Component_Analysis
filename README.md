@@ -67,7 +67,6 @@ Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/qianhui-03/Principal_Component_Analysis.git
 cd Principal_Component_Analysis
-pip install -r requirements.txt
 ```
 
 ## References
